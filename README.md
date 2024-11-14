@@ -1,1 +1,3 @@
-MAY NOT WORK ON SOME DEVICES
+
+This code is currently experiencing some compatibility issues with certain devices. While it functions correctly on most platforms, a small subset of users may encounter errors or unexpected behavior. Unfortunately, due to the complexity of the issue and the limited resources available, we are unable to provide a comprehensive fix at this time. We apologize for any inconvenience this may cause. If you experience any problems, please try running the code again. In some cases, this may resolve the issue. If the problem persists, we recommend reaching out to our support team for further assistance.
+If your account gets banned, head to the Unban Repository to gain access to your account again
